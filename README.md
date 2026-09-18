@@ -13,7 +13,7 @@ Repositorio oficial del **Workshop**, parte de la charla "_IA como compañera de
 
 ## Contenido 📄
 
-- [`workshop-2-prompt.md`](./workshop-2-prompt.md) — system prompt del facilitador para la sesión.
+- [`workshop-2-prompt.md`](./Prompt-Discernimiento-Diligencia.md) — system prompt del facilitador para la sesión.
 
 ## Lyfter 🎓
 
