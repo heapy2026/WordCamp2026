@@ -11,10 +11,10 @@ Repositorio oficial del **Workshop**, parte de la charla "_IA como compañera de
 | **Discernimiento** | 🐰 Conejo | ¿Sabes evaluar lo que te entregó? |
 | **Diligencia** | 🐄 Vaca | ¿Lo usas de forma responsable? |
 
-## 📄 Contenido
+## Contenido 📄
 
 - [`workshop-2-prompt.md`](./workshop-2-prompt.md) — system prompt del facilitador para la sesión.
 
-## 🎓 Lyfter
+## Lyfter 🎓
 
 Hecho con 💜 por **[Lyfter](https://www.lyfter.academy/)**.
