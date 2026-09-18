@@ -1,4 +1,4 @@
-# 🚀 Workshop · WordCamp 2026
+# Workshop · WordCamp 2026 🚀 
 
 Repositorio oficial del **Workshop**, parte de la charla "_IA como compañera de aprendizaje, no como atajo_" para **WordCamp 2026**.
 
